@@ -20,7 +20,7 @@ MySQL
 Hibernate
 Angular (or React?)
 ### What I'll Have to Learn
-API integrations and use
+API integrations and use (NPS, something for weather, possibly AllTrails widget)
 Project structure (what to work on and when)
 Project integration (how to get all aspects of the app to work together)
 Patience
